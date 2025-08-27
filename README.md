@@ -27,7 +27,7 @@ Convert 2D images into 3D voxel representations using multiple algorithms.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-to-voxel-converter.git
+git clone https://github.com/Asimudin/image-to-voxel-converter.git
 cd image-to-voxel-converter
 
 # Install dependencies
@@ -156,4 +156,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/image-to-voxel-converter](https://github.com/yourusername/image-to-voxel-converter)
+Project Link: [https://github.com/Asimudin/image-to-voxel-converter](https://github.com/Asimudin/image-to-voxel-converter)
